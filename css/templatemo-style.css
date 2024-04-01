@@ -193,10 +193,12 @@ http://www.templatemo.com/tm-516-known
     font-weight: normal;
     padding: 15px 30px;
     transition: 0.5s;
+    margin-bottom: 20px;
   }
 
   .section-btn:hover {
-    background: #ffffff;
+   
+    color: black;
     border-color: transparent;
   }
 
